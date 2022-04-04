@@ -1,0 +1,11 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.caja{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
